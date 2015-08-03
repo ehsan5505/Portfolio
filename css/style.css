@@ -71,15 +71,28 @@
 }
 
 }
+
+/*changes the image in the fromnt view*/
 .hero
 {
 	background:url(http://placehold.it/900x800);
-	background-image:url('../img/slide1.jpg');
+	background-image:url('../img/home/slide1.jpg');
 	background-size:cover;
 	box-shadow:inset 0px 0px 0 2000px rgba(0,0,0,0.15);
 	height:80%
 	opacity:0.6;
 }
+/* now change the image for the electronics*/
+
+/* change the front image for the projects*/
+
+/* change the front image for the expeience*/
+
+/* change the image to be view for the programming*/
+
+
+
+
 .intro-text
 {
 	padding-top:40%;
@@ -170,3 +183,13 @@
 /*	box-shadow:inset 0px 0px 0 2000px rgba(0,0,0,0.15);*/
 /*	height:80%*/
 /*}*/
+
+
+
+
+
+
+
+
+
+/*GOTO LINE 76 in order to change the front image*/
