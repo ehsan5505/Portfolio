@@ -50,7 +50,7 @@
               <div> 
                 <!--<a href="#" data-reveal-id="myModal">Click Me For A Modal</a>-->
                 
-                <div style="background-color:white;color:#40403e;font-variant:small-caps" id="myModal" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
+                <div id="myModal" class="reveal-modal" data-reveal aria-labelledby="modalTitle" aria-hidden="true" role="dialog">
                   <h2 id="modalTitle">Portfolio is in progress...</h2>
                   <p class="lead">Sorry for Inconvience</p>
                   <p>You can surf the portfolio, Share your remarks and suggestion with <a href="mailto:ehsan5505@gmail.com">Ehsan</a></p>

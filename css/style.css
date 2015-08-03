@@ -185,8 +185,12 @@
 /*}*/
 
 
-
-
+/*MAKE CHANGES TO THE FRONT MODAL*/
+div#myModal{
+	color:rgba(0,1,0,1);
+	background-color:rgba(255,253,255,0.8);
+	border-radius:20px 0px 12px 4px;
+}
 
 
 
