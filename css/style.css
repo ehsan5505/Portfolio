@@ -83,13 +83,45 @@
 	opacity:0.6;
 }
 /* now change the image for the electronics*/
-
+.elect
+{
+	background:url(http://placehold.it/900x800);
+	background-image:url('../img/home/header.jpg');
+	background-size:cover;
+	box-shadow:inset 0px 0px 0 2000px rgba(0,0,0,0.15);
+	height:80%
+	opacity:0.6;
+}
 /* change the front image for the projects*/
-
+.prj
+{
+	background:url(http://placehold.it/900x800);
+	background-image:url('../projects/header.jpg');
+	background-size:cover;
+	box-shadow:inset 0px 0px 0 2000px rgba(0,0,0,0.15);
+	height:80%
+	opacity:0.6;
+}
 /* change the front image for the expeience*/
-
+.prog
+{
+	background:url(http://placehold.it/900x800);
+	background-image:url('../img/programming/header1.jpg');
+	background-size:cover;
+	box-shadow:inset 0px 0px 0 2000px rgba(0,0,0,0.15);
+	height:80%
+	opacity:0.6;
+}
 /* change the image to be view for the programming*/
-
+.exp
+{
+	background:url(http://placehold.it/900x800);
+	background-image:url('../experience/header.jpg');
+	background-size:cover;
+	box-shadow:inset 0px 0px 0 2000px rgba(0,0,0,0.15);
+	height:80%
+	opacity:0.6;
+}
 
 
 
@@ -188,12 +220,47 @@
 /*MAKE CHANGES TO THE FRONT MODAL*/
 div#myModal{
 	color:rgba(0,1,0,1);
-	background-color:rgba(255,253,255,0.8);
+	background-color:rgba(255,253,255,1);
 	border-radius:20px 0px 12px 4px;
 }
 
 
 
+.firstColumn{
+	width:40%;
+	float:left;
+}
 
+.secondColumn{
+	width:40%;
+	float:right;
+}
 
+#progSummary{
+	background-image:url("../img/programming/phoneGap.png");
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:300px;
+	
+	color:#A4ABA7;
+	/*color:white;*/
+	background-color:#DAE3DD;
+	border-radius:10px 30px 10px 20px;
+	
+}
+#progPrjSummary{
+	background-image:url("../img/programming/cordova.png");
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:300px;
+	
+	color:#FFF824;
+	/*color:white;*/
+	background-color:#40403e;
+	border-radius:10px 30px 10px 20px;
+	
+}
+#progPrjSummary h2{
+	color:white;
+}
 /*GOTO LINE 76 in order to change the front image*/

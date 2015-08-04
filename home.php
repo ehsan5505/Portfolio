@@ -30,7 +30,8 @@
       if($link=="elect"){
         echo "Electronics Engineer";
       }else if($link=="prog"){
-        echo "Programming Foundation";
+        // echo "Programming Foundation";
+        include "template/programming.php";
       }else if($link=="prj"){
         echo "Project has been selected";
       }else if($link=="exp"){
@@ -64,13 +65,17 @@
         <script src="js/foundation/foundation.reveal.js" type="text/javascript" ></script>
         <script src="js/vendor/modernizr.js" type="text/javascript"></script>
         
-        <?php    if($link=="modal"){ ?>
           <script type="text/javascript"> 
             $(document).foundation();
-            $(document).ready(function (e) {     
-              $('#myModal').foundation('reveal', 'open'); });
           </script>
+        <?php    
+          if($link=="modal"){ ?>
+            <script>
+              $(document).ready(function (e) {     
+                $('#myModal').foundation('reveal', 'open'); });
+            </script>
       <?php  } ?>
+      
     </body>
 
 </html>
