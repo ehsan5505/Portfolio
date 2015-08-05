@@ -263,4 +263,21 @@ div#myModal{
 #progPrjSummary h2{
 	color:white;
 }
+
+.myPanel{
+	border:1px solid transparent;
+	border-radius:10px 12px;
+	display:block;
+	clear:both;
+	font-size:2em;
+	font-variant:small-caps;
+	letter-spacing:2px;
+	text-align:right;
+	background-color:transparent;
+	color:red;
+	font-weight:bold;
+	padding-top:10px;
+	padding-right:50px;
+}
+
 /*GOTO LINE 76 in order to change the front image*/
