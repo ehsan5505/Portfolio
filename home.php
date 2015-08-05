@@ -71,10 +71,10 @@ include("template/remainModal.php");
           </script>
         <?php    
           if($link=="modal"){ ?>
-            <script>
-              $(document).ready(function (e) {     
-                $('#myModal').foundation('reveal', 'open'); });
-            </script>
+            <!--<script>-->
+            <!--  $(document).ready(function (e) {     -->
+            <!--    $('#myModal').foundation('reveal', 'open'); });-->
+            <!--</script>-->
       <?php  } ?>
       
     </body>
