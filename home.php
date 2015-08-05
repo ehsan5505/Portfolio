@@ -27,7 +27,7 @@
     <?php include "template/nav.php" ?>
     <?php
       if($link=="elect"){
-        echo "Electronics Engineer";
+        include "template/electronics/electronics.php";
       }else if($link=="prog"){
         // echo "Programming Foundation";
         include "template/programming/programming.php";

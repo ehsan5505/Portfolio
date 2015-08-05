@@ -1,8 +1,8 @@
 
-      <div class="hero">
+      <div class="elect">
         <div class="row">
           <div class="large-12 columns intro-text">
-            <p>When you want to be succeed as bad as you want breathe, then you'll be Successful</p> 
+            <p><strong>Electronics Engineer.</strong> | ('_') | ('_') | ('_') |</p> 
             <!--<img/ src="img/hawk.jpg" />-->
         
           </div>
@@ -13,11 +13,10 @@
 
       <div class="row about">
         <div class="medium-6 large-8 columns">
-          <h4>About</h4>
-          <p>Graduate from reputating university scoring the score of 3.4 CGPA in the field of Electronics Engineering, having interest in Programming and Development
-          work out more than 20 web base projects. Passion to control devices through Web.</p>
-          <p>Wanted to Explore the skills and tactics require to achieve the path of success by explore Embeeded as well Web technologies, lay the foundation of development in 
-          Wireless and Web IO control.</p>
+          <h4>Electronics</h4>
+          <p>Done graduation in Electronics Engineer passionate for Internet over things, perform more than tens of project in academic life and still on going with it.</p>
+          <p>There are the thousands of possibilty to create the imagination to life just need creativity and imagination. </p>
+          
         </div>
         <div class="medium-6 large-4 columns">
           <img src="img/ehsanPic.jpg">
