@@ -16,8 +16,7 @@
         <title>Ehsan Rafeeque | Portfolio </title>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <!--<title>Foundation | Welcome</title>-->
-        <!--<link href='http://fonts.googleapis.com/css?family=Lobster|Raleway|Titillium+Web|Playball' rel='stylesheet' type='text/css'>-->
+        <link href="img/home/favicon.png" rel="icon" type="image/png" />
         <link rel="stylesheet" href="css/foundation.css" />
         <link rel="stylesheet" href="css/style.css" />
         
@@ -31,7 +30,7 @@
         echo "Electronics Engineer";
       }else if($link=="prog"){
         // echo "Programming Foundation";
-        include "template/programming.php";
+        include "template/programming/programming.php";
       }else if($link=="prj"){
         echo "Project has been selected";
       }else if($link=="exp"){
@@ -43,11 +42,7 @@
     
     
     <?php include "template/footer.php" ?>
-    
-    
-    
-      
-     
+
               <div> 
                 <!--<a href="#" data-reveal-id="myModal">Click Me For A Modal</a>-->
                 
