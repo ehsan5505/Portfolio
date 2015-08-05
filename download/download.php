@@ -13,15 +13,30 @@
 // }
 
 $file = $_SERVER['DOCUMENT_ROOT']."/download/download.pdf";
+
 if(file_exists($file)){
     // echo "file exist";
-    header("Content-Disposition: attachment;filename='Ehsan-Rafeeque'");
+    // header("Content-Disposition: attachment;filename='Ehsan-Rafeeque'");
+    // readfile($file);
+    // header("Location:/home.php");
+    
+    header('Content-Description: File Transfer');
+    header('Content-Type: application/pdf');
+    // header("Content-Type: application/octet-stream");
+    header('Content-Disposition: inline; filename="EhsanRafeeque.pdf"');
+    header('Content-Transfer-Encoding: binary');
+    header('Expires: 0');
+    header('Cache-Control: must-revalidate');
+    header('Pragma: public');
+    header('Content-Length: ' . filesize($file));
+    // ob_clean();
+    flush();
     readfile($file);
-    header("Location:/home.php");
+    // header("Location:/home.php");
     
 }else{
     echo "file does not exist";
-    
+    // header("Location:/home.php");
     // echo __DIR__.$file;
     // echo "<br/>".$_SERVER['DOCUMENT_ROOT'];
 }
