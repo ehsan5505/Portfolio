@@ -18,6 +18,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link href="img/home/favicon.png" rel="icon" type="image/png" />
         <link rel="stylesheet" href="css/foundation.css" />
+        <link rel="stylesheet" href="css/jquery.fancybox.css" />
         <link rel="stylesheet" href="css/style.css" />
         
         <!--<script type="text/javascript" src="js/script.js"></script>-->
@@ -57,11 +58,15 @@
         <!--<script type="text/javascript" src="https://code.jquery.com/jquery-2.1.4.js"></script>-->
         <script src="js/vendor/jquery.js" type="text/javascript" ></script>
         <script src="js/foundation/foundation.js" type="text/javascript"></script>
+        <script src="js/plugin/jquery.fancybox.js" type="text/javascript"></script>
+        <script src="js/plugin/jquery.fancybox.pack.js" type="text/javascript"></script>
         <script src="js/foundation/foundation.reveal.js" type="text/javascript" ></script>
         <script src="js/vendor/modernizr.js" type="text/javascript"></script>
+        <script type="text/javascript" src="js/script.js"></script>
         
           <script type="text/javascript"> 
             $(document).foundation();
+            $(document).foundation('clearing', 'reflow');
           </script>
         <?php    
           if($link=="modal"){ ?>
