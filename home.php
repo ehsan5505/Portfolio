@@ -6,7 +6,7 @@
     $link="modal";
   }
 
-
+include("template/remainModal.php");
 ?>
 
 
@@ -35,7 +35,8 @@
       }else if($link=="prj"){
         echo "Project has been selected";
       }else if($link=="exp"){
-        echo "<strong>Experience is need</strong><em>Experience Indeed</em>";
+        
+        
       }else{
         include "template/main.php";
       }

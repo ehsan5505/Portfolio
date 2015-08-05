@@ -38,10 +38,10 @@
               <a href="?nav=elect"><img data-caption="Electronics" src="/img/home/rasp.jpeg"></a>
             </li>
             <li>
-              <a href="?nav=prj"><img data-caption="Projects..." src="/img/home/project.jpg"></a>
+              <a href="?nav=prj" data-reveal-id="remainModal"><img data-caption="Projects..." src="/img/home/project.jpg"></a>
             </li>
             <li>
-              <a href="?nav=exp"><img data-caption="Experience" src="/img/home/gfkEtilize.png"></a>
+              <a href="?nav=exp" data-reveal-id="remainModal"><img data-caption="Experience" src="/img/home/gfkEtilize.png"></a>
             </li>
           </ul>
         </div>

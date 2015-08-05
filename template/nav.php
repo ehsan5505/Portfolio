@@ -7,7 +7,7 @@
             <ul class="button-group">
               <li><a href="?nav=prog" class="button">Programming</a></li>
               <li><a href="?nav=elect" class="button">Engineering</a></li>
-              <li><a href="?nav=exp" class="button">Experience</a></li>
+              <li><a href="?nav=exp" class="button" data-reveal-id="remainModal">Experience</a></li>
             </ul>
           </div>
         </div>
