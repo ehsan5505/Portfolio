@@ -52,13 +52,13 @@
 
           <ul class="clearing-thumbs small-block-grid-1 medium-block-grid-3 large-block-grid-3" data-clearing>
             <li>
-              <a href="http://treeapp-ehsan.herokuapp.com"><img data-caption="Programming" src="../img/programming/screencast1.png"></a>
+              <a href="http://treeapp-ehsan.herokuapp.com" target='__blank'><img data-caption="Programming" src="../img/programming/screencast1.png"></a>
             </li>
             <li>
-              <a href="http://app-book.herokuapp.com"><img data-caption="Electronics" src="../img/programming/screencast2.png"></a>
+              <a href="http://app-book.herokuapp.com" target="__blank"><img data-caption="Electronics" src="../img/programming/screencast2.png"></a>
             </li>
             <li>
-              <a href="http://github.com/ehsan5505"><img data-caption="Projects..." src="../img/programming/github.png"></a>
+              <a href="http://github.com/ehsan5505" target="__blank"><img data-caption="Projects..." src="../img/programming/github.png"></a>
             </li>
            
           </ul>

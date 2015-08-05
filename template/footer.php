@@ -18,13 +18,6 @@
       <footer class="row">
           <div class="myPanel">
               <p>&copy;Ehsan Rafeeque Portfolio</p>
-            <!--<div class="large-6 columns">-->
-            <!--  <ul class="inline-list right">-->
-            <!--    <li><a href="#">FAQ</a></li>-->
-            <!--    <li><a href="#">Privacy</a></li>-->
-            <!--    <li><a href="#">Suscribe</a></li>-->
-            <!--  </ul>-->
-            <!--</div>-->
         </div>
       </footer>
         
