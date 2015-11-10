@@ -74,7 +74,7 @@
       <!--         <?php include "template/electronics/academicsModal.php" ?>-->
       <!--         <?php include "template/electronics/projectModal.php" ?>-->
 
-      <!--</div>-->
+      </div>
       <div class="row work">
         <hr>
         <div class="large-12 columns">
