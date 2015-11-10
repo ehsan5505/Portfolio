@@ -62,19 +62,19 @@
           </dl>
         </div>
         
-        <ul class="clearing-thumbs clearing-feature" data-clearing>
-          <!--<li><a href="path/to/your/img"><img src="../../img/electronics/project.jpg"></a></li>-->
-          <li class="clearing-featured-img"><a id="sdp" href="../../img/electronics/project.jpg"><img src="../../img/electronics/project.jpg"></a></li>
+        <!--<ul class="clearing-thumbs clearing-feature" data-clearing>-->
+        <!-- !THIS SHOULD BE COMMENT -->  <!--<li><a href="path/to/your/img"><img src="../../img/electronics/project.jpg"></a></li>-->
+          <!--<li class="clearing-featured-img"><a id="sdp" href="../../img/electronics/project.jpg"><img src="../../img/electronics/project.jpg"></a></li>-->
           
-        </ul>
+      <!--  </ul>-->
         
-              <a href="#progPrjSummary" class="button default small radius" data-reveal-id="progPrjSummary">Projects</a>
-              <a href="#progSummary" class="button default small radius" data-reveal-id="progSummary">Academics</a>
+      <!--        <a href="#progPrjSummary" class="button default small radius" data-reveal-id="progPrjSummary">Projects</a>-->
+      <!--        <a href="#progSummary" class="button default small radius" data-reveal-id="progSummary">Academics</a>-->
                 
-               <?php include "template/electronics/academicsModal.php" ?>
-               <?php include "template/electronics/projectModal.php" ?>
+      <!--         <?php include "template/electronics/academicsModal.php" ?>-->
+      <!--         <?php include "template/electronics/projectModal.php" ?>-->
 
-      </div>
+      <!--</div>-->
       <div class="row work">
         <hr>
         <div class="large-12 columns">
