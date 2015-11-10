@@ -35,8 +35,8 @@ include("template/remainModal.php");
       }else if($link=="prj"){
         echo "Project has been selected";
       }else if($link=="exp"){
-        
-        
+        include "template/experience/experience.php";
+        // echo "experience click";
       }else{
         include "template/main.php";
       }

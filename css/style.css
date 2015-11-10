@@ -116,7 +116,7 @@
 .exp
 {
 	background:url(http://placehold.it/900x800);
-	background-image:url('../experience/header.jpg');
+	background-image:url('../img/experience/header.jpg');
 	background-size:cover;
 	box-shadow:inset 0px 0px 0 2000px rgba(0,0,0,0.15);
 	height:80%
@@ -227,13 +227,30 @@ div#myModal{
 
 
 .firstColumn{
-	width:40%;
+	width:55%;
 	float:left;
+	padding:10px;
 }
 
 .secondColumn{
 	width:40%;
 	float:right;
+	padding:10px;
+	font-family:arial;
+}
+.date{
+	font-weight:bold;
+	float:right;
+	font-family:arial;
+}
+
+.org{
+	font-variant:small-caps;
+	font-family:arial;
+}
+
+.clear{
+	clear:both;
 }
 
 #progSummary{
