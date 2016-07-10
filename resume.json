@@ -1,0 +1,248 @@
+{
+  "basics": {
+    "name": "Ehsan Rafeeque",
+    "label": "Programmer",
+    "picture": "http://i87.photobucket.com/albums/k157/ehsan5505/ehsanPic_zpsg8bguenr.jpg",
+    "email": "ehsan5505@gmail.com",
+    "phone": "(+92) 310-110-2298",
+    "website": "https://ehsan-cv.herokuapp.com",
+    "summary": "To contribute positively is a vigorous effort under going change and modernization through application of my knowledge innovative approach and youthful enthusiasm for achievement and result",
+    "location": {
+      "address": "House39 Street3 Block4 HBCHS Hub River Road",
+      "postalCode": "KHI 75790",
+      "city": "Karachi",
+      "countryCode": "PK",
+      "region": "Pakistan"
+    },
+    "profiles": [
+      {
+        "network": "Skype",
+        "username": "ehsan5505",
+        "url": ""
+      },
+      {
+        "network": "GitHub",
+        "username": "ehsan5505",
+        "url": "https://github.com/ehsan5505/"
+      },
+      {
+        "network": "cloud",
+        "username": "ehsan55051",
+        "url": "https://c9.io/ehsan55051"
+      },
+      {
+        "network": "BitBucket",
+        "username": "ehsan5505",
+        "url": "https://bitbucket.org/ehsan5505/"
+      },
+      {
+        "network": "linkedin",
+        "username": "ehsan5505",
+        "url": "https://www.linkedin.com/in/ehsan5505"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "GfK Etilize",
+      "position": "Associate Customer Integration Engineer",
+      "website": "https://www.etilize.com",
+      "startDate": "2015-09-14",
+      "endDate": "2016-07-11",
+      "summary": "GfK Etilize deals with content aggregation and syndication, where we gather trusted information related to the product from Manufacturer or reliable sources to the delivery top most IT industries or Distributors.   As an Integration Engineer, we have to deal with the client technical issue related to our service, meeting and gather new requirements, provide integration for the content to various Systems. Automation of manual process with Bash Scripting and Software tools.",
+      "highlights": [
+        "Automation of manual process using Bash Scripting or Software Tools",
+        "Deal with Client Project for the content syndication",
+        "Provide Support for the services.",
+        "Dealing with Customer technical issues",
+        "Generating reports for the custom requirement."
+      ]
+    },
+    {
+      "company": "GfK Etilize",
+      "position": "Web Farming Engineer",
+      "website": "http://www.etilize.com",
+      "startDate": "2015-01-20",
+      "endDate": "2015-09-14",
+      "summary": "Working under IFR project use to design and gather data from various eCommerce website sources by web crawling.",
+      "highlights": [
+        "Analyze the eCommerce site and generate the pattern in XML format",
+        "Parse the XML data and crawl the data from the using JAVA",
+        "Store the data into the database and generate reports"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "NED",
+      "position": "Web Development",
+      "website": "http://israrali.com/",
+      "startDate": "2015-09-15",
+      "endDate": "2016-01-12",
+      "summary": "Learning major technologies revolving around Microsoft Web Technologies. ",
+      "highlights": [
+        "ASP 5",
+        "Entity Framework 6",
+        "Silverlight",
+        "LiNQ",
+        "Azure Service"
+      ]
+    },
+    {
+      "organization": "NED",
+      "position": "Software ",
+      "website": "http://israrali.com/",
+      "startDate": "2015-09-15",
+      "endDate": "2016-01-14",
+      "summary": "Familirize with Microsoft Technologies for the Software development.",
+      "highlights": [
+        "WCF",
+        "WPF",
+        "Entity Framework",
+        "Foundation of Visual Programmig",
+        "C#"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "PAF-KIET",
+      "area": "Electronic Engineer",
+      "studyType": "Bachelor",
+      "startDate": "2010-01-20",
+      "endDate": "2014-12-25",
+      "gpa": "3.44",
+      "courses": [
+        "Automation and Robotics",
+        "Data Communication",
+        "Embedded Systems",
+        "Engineering Software Design",
+        "FPGA",
+        "VLSI"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [
+    {
+      "name": "Personal Portfolio",
+      "publisher": "",
+      "releaseDate": "2015-05-01",
+      "website": "http://ehsan-cv.herokuapp.com/home.php",
+      "summary": "Personal porfolio desing for the project slideshow and information gathering and exchanging with reviews"
+    },
+    {
+      "name": "Spex Compute",
+      "publisher": "",
+      "releaseDate": "2016-03-10",
+      "website": "http://validationdb.etilize.com/spex/main.php",
+      "summary": "Spex Compute is design for the customer to review and campare their products with competitors, It will provide you the most update information regarding product."
+    },
+    {
+      "name": "Google GMC",
+      "publisher": "",
+      "releaseDate": "2016-10-7",
+      "website": "http://validationdb2.etilize.com/ehsan/google/",
+      "summary": "Desing for the Customer to provide the data as per the Google Manufacturer Center Requiremment, which will help their to improve their content review and searching index in Google Search Engine."
+    },
+    {
+      "name": "Tree App",
+      "publisher": "",
+      "releaseDate": "2015-06-12",
+      "website": "https://treeapp-ehsan.herokuapp.com/",
+      "summary": "Tree App is a social networking application, not completed yet."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development (Front-End)",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "AngularJS",
+        "Bootstrap",
+        "D3js",
+        "Gulp JS"
+      ]
+    },
+    {
+      "name": "Database",
+      "level": "Intermediate",
+      "keywords": [
+        "MySQL",
+        "MSSQL",
+        "NoSQL (MongoDB)"
+      ]
+    },
+    {
+      "name": "Web Development (Backend)",
+      "level": "Master",
+      "keywords": [
+        "PHP ",
+        "Node JS",
+        "ASP",
+        "Ruby",
+        "Python"
+      ]
+    },
+    {
+      "name": "Web Development (Framework)",
+      "level": "Master",
+      "keywords": [
+        "Rails",
+        "Flask",
+        "MEAN"
+      ]
+    },
+    {
+      "name": "Server",
+      "level": "Intermediate",
+      "keywords": [
+        "Amazon Server",
+        "Heroku ",
+        "RackSpace",
+        "Personal Server Configuration"
+      ]
+    },
+    {
+      "name": "Internet of Things",
+      "level": "Intermediate",
+      "keywords": [
+        "Raspberry Pi GPIO",
+        "arduino",
+        "PIC",
+        "atmel avr"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Urdu",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Web Developement",
+      "keywords": [
+        "mvc",
+        "migration",
+        "mvvm"
+      ]
+    },
+    {
+      "name": "Internet of Things",
+      "keywords": [
+        "ai home",
+        "temp control",
+        "system monitor"
+      ]
+    }
+  ]
+}
